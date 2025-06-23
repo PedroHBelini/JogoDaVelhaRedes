@@ -89,3 +89,5 @@ porta, tabuleiro, jogadores, simbolo, jogada, conexao, cliente, trava, verificar
 Feito por: Pedro Belini e Pedro Bonelli
 
 GitHub: https://github.com/PedroHBelini/JogoDaVelhaRedes
+
+Youtube: https://youtu.be/xhag7y9MhX8?si=LqPB4mr2FXDwJzxr
